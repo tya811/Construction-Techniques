@@ -1,0 +1,13 @@
+pretty simple to waterproof any circuit really. don't use the surface layer of the pcb to print the metallic ink, put it 2 layers in at least
+then do a rubber or cork layer on the outside of the top and bottom most layers of metallic ink, and if there is only one layer, print 
+in black or something ink, the path that electricity follows, with demarcations of components and junctions etcetera. 
+
+in order to be waterproofed, you have to move away from soldering.
+
+So the solution is magnets coated in rubber with contact points wherever they need to be and then the base of all of the electronic components
+needs to be magnetic so that it simply locks into place. 
+
+and then maybe magnetic caps to waterproof the thing completely, but that should work..that should make a completely wateproof PCB that's still
+easy to follow. 
+
+just have to coat everything in rubber or cork or both in laminate layers. 
